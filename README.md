@@ -21,7 +21,7 @@
 
 | Platform | Download | Version |
 |----------|----------|---------|
-| Android | [**Download APK**](https://github.com/xjthy001/melogen-app-releases/releases/latest/download/MelogenAi.apk) | v1.0.0 |
+| Android | [**Download APK**](https://github.com/mrzhangguoguo/melogen-app-releases/releases/latest/download/MelogenAi.apk) | v1.0.0 |
 | iOS | Coming Soon (TestFlight) | - |
 
 ### Requirements
