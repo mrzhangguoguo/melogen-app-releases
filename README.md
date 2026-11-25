@@ -110,3 +110,7 @@ For support or feedback, please visit our [website](https://melogenai.com) or co
 <p align="center">
   © 2025 Melogen AI. All rights reserved.
 </p>
+
+## Repository maintenance
+
+See the [documentation index](docs/README.md) for release evidence and the [agent handoff guide](AGENTS.md) for project handoffs.
